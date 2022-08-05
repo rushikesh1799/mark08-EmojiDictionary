@@ -1,2 +1,5 @@
 # mark08-EmojiDictionary
-Created with CodeSandbox
+
+Description : A Web app which tells you the interpretation of the given emoji.
+
+Tech Stack : HTML, CSS, JS, ReactJS

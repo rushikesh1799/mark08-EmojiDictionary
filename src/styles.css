@@ -51,6 +51,22 @@ li {
   padding: 2px 5px;
 }
 
+.footer-text a {
+  text-decoration: none;
+  /* background-color: #00546c; */
+  border: 2px solid aqua;
+  padding: 3px;
+  border-radius: 5px;
+  color: #fff;
+  margin-left: 5px;
+}
+
+.footer-text a:hover {
+  background-color: black;
+  color: white;
+  border: 2px solid #ffffff;
+}
+
 @media screen and (max-width: 600px) {
   html {
     font-size: 75%;

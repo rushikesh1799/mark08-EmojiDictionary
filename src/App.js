@@ -68,6 +68,19 @@ export default function App() {
           })}
         </ul>
       </div>
+      <footer>
+        <p class="footer-text">
+          Developed By
+          <a
+            href="https://rushikeshbunge-portfolio.netlify.app/"
+            className="link"
+            target="_blank"
+          >
+            {" "}
+            Rushikesh{" "}
+          </a>
+        </p>
+      </footer>
     </div>
   );
 }
